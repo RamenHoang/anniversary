@@ -68,7 +68,7 @@ p {
 }
 .col-2 img {
     max-width: 100%;
-    padding: 50px 0px;
+    margin: 50px 0px;
 }
 .col-2 h1 {
     font-size: 50px;
@@ -93,7 +93,10 @@ p {
 .header rows {
     margin-top: 50px;
 }
-
+.img-header {
+    border-radius: 50%;
+    box-shadow: 0 0 50px 10px rgba(0, 0, 0, 0.336);
+}
 .categories {
     margin: 70px 0px;
 }
